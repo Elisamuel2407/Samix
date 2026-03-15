@@ -1,2 +1,2 @@
-x = input("ingrese un número: ")
-print(x)
+pais = input("ingrese un pais: ")
+print(pais)
